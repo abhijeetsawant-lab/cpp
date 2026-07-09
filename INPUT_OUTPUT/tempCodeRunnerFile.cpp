@@ -1,0 +1,1 @@
+cout << "you have entered a number : " << x ;
